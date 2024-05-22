@@ -92,3 +92,6 @@ Fonts:
 https://www.fontspace.com/
 https://www.1001fonts.com/
 https://www.dafont.com/
+
+Image Effects
+Sheryjs
