@@ -95,3 +95,6 @@ https://www.dafont.com/
 
 Image Effects
 Sheryjs
+
+Polygon clip[
+https://bennettfeely.com/clippy/]([url](https://bennettfeely.com/clippy/))
